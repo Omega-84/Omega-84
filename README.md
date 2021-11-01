@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm not from a technical background.
 
 
-[![Stats for nerds](https://github-readme-stats.vercel.app/api?username=Omega-84)](https://github.com/Omega-84/github-readme-stats)
+[![Stats for nerds](https://github-readme-stats.vercel.app/api?username=Omega-84&show_icons=true&theme=radical)](https://github.com/Omega-84/github-readme-stats)
