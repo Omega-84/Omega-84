@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on computer vision projects
 - 🤔 I’m looking for help with image processing
 - ⚡ Fun fact: I'm not from a technical background.
-- Add me to your network at ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
+
 [![Stats for nerds](https://github-readme-stats.vercel.app/api?username=Omega-84)](https://github.com/Omega-84/github-readme-stats)
