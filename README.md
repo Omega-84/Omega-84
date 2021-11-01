@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tensorflow and fast.ai
 - 👯 I’m looking to collaborate on computer vision projects
 - 🤔 I’m looking for help with image processing
-- ⚡ Fun fact: I'm not from a technical background.
+- ⚡ Fun fact: I learn something new everyday
 
 
-[![Stats for nerds](https://github-readme-stats.vercel.app/api?username=Omega-84&show_icons=true&theme=radical)](https://github.com/Omega-84/github-readme-stats)
+[![Stats for nerds](https://github-readme-stats.vercel.app/api?username=Omega-84&show_icons=true&theme=dracula)](https://github.com/Omega-84/github-readme-stats)
