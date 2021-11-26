@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I learn something new everyday
 
 
-[![Stats for nerds](https://github-readme-stats.vercel.app/api?username=Omega-84&show_icons=true&theme=dracula)](https://github.com/Omega-84/github-readme-stats)
+[![Stats for nerds](https://github-readme-stats.vercel.app/api?username=Omega-84&show_icons=true&theme=gruvbox)](https://github.com/Omega-84/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omega-84&layout=compact)](https://github.com/Omega-84/github-readme-stats)
 
