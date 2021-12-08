@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Tensorflow and fast.ai
+- 🌱 I’m currently learning Tensorflow and MLE
 - 👯 I’m looking to collaborate on computer vision projects
 - 🤔 I’m looking for help with image processing
 - ⚡ Fun fact: I learn something new everyday
